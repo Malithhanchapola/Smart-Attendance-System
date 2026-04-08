@@ -128,7 +128,7 @@ See the LICENSE file for details.
 
 For suggestions or collaboration:
 
-* **Email:** 
+* **Email:** malithhanchapola1@gmail.com
 * **GitHub:** https://github.com/Malithhanchapola
 
 
